@@ -35,7 +35,12 @@ Datasets/
 │   ├── lst_2019.tif
 │   └── lst_2025.tif
 ├── UHI_Classified/       # Reclassified UHI images
-│   └── Reclass_UHI_*.tif
+│   ├── Reclass_UHI_1990.tif
+│   ├── Reclass_UHI_1995.tif
+│   ├── Reclass_UHI_2001.tif
+│   ├── Reclass_UHI_2014.tif
+│   ├── Reclass_UHI_2019.tif
+│   └── Reclass_UHI_2025.tiff   
 └── Riyadh_Boundary/      # Study area boundary shapefile
     └── Riyadh City.shp
 ```

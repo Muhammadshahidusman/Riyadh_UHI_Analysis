@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(powershell -Command \"Start-Sleep -Seconds 15\")",
+      "Bash(uv add:*)",
+      "Bash(uv run:*)",
+      "Bash(where nvidia-smi:*)",
+      "Read(//c//**)",
+      "Bash(nvidia-smi:*)"
+    ]
+  }
+}
